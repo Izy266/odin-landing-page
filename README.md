@@ -2,5 +2,8 @@
 
 Creating a webpage from a design provided by the Odin Project
 
-![Site Design Reference](reference.png?raw=true "Reference")
+This is the target website design:
+![Site Design Reference](reference.png)
+
+Included are the following site design info:
 ![Site Design Info](style-info.png)
