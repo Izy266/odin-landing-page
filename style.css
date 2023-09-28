@@ -27,7 +27,8 @@ h1 {
     padding-bottom: 185px;
 }
 
-.hero, .footer{
+.hero,
+.footer {
     background-color: #1F2937;
     color: #F9FAF8;
     display: flex;
@@ -89,7 +90,7 @@ h1 {
     color: #242F3B;
 }
 
-.second .main{
+.second .main {
     display: flex;
     gap: 80px;
     padding-top: 24px;
@@ -113,9 +114,7 @@ h1 {
 }
 
 .third {
-    padding-top: 200px;
-    padding-left: 100px;
-    padding-bottom: 150px;
+    padding: 170px 350px 120px;
     display: flex;
     background-color: #E5E7EB;
     font-size: 50px;
@@ -126,8 +125,9 @@ h1 {
 }
 
 .quote {
-    width: 1150px;
+    /* width: 1150px; */
     padding-left: 80px;
+
 }
 
 .cred {
@@ -171,7 +171,7 @@ h1 {
 }
 
 .footer {
-    padding:55px 0;
+    padding: 55px 0;
     padding-left: 120px;
     align-items: center;
     font-size: 24px;
